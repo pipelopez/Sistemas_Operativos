@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1442935007 source:/home/raven/coding/Cpp Projects/sigint/main.c
+	<stdio.h>
+	<signal.h>
+

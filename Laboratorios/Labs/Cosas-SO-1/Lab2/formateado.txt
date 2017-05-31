@@ -1,0 +1,6 @@
+Materia                       Nota      Créditos 
+
+Total de materias: -260275297
+Materias ganadas: -260275297
+Materias perdidas: 0
+Promedio ponderado: -nan

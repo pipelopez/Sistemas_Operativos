@@ -1,0 +1,2 @@
+Sistemas operativos;5;5
+Simulación de sistemas;4.5;4

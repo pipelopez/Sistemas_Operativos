@@ -1,0 +1,8 @@
+Materia                       Nota      Créditos 
+Sistemas operativos            5.00       5         
+Simulación de sistemas        4.50       4         
+
+Total de materias: 2
+Materias ganadas: 2
+Materias perdidas: 0
+Promedio ponderado: 4.78

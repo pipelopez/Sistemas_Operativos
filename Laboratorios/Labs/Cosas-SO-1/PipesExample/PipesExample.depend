@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1442370071 source:/home/raven/coding/Cpp Projects/PipesExample/main.c
+	<stdio.h>
+	<unistd.h>
+	<string.h>
+	<stdlib.h>
+	<sys/types.h>
+

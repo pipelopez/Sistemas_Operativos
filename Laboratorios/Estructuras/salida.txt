@@ -1,0 +1,10 @@
+
+		Lista de trabajadores
+Nombre de la empresa: XXX S:A Nit: 80808080                 
+Nombre         Salario base   Horas extra    Total          
+Camilo         650000.00      2              666000.00      
+Jose           600000.00      3              624000.00      
+Carlos         750000.00      2              766000.00      
+lalo           650300.00      3              674300.00      
+luna           730000.00      1              738000.00      
+Total                                        3468300.00     

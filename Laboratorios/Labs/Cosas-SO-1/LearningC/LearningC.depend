@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1441662863 source:/home/raven/coding/Cpp Projects/LearningC/main.c
+	<stdio.h>
+
+1442198404 source:/home/raven/coding/Cpp Projects/LearningC/punteros.c
+	<stdio.h>
+
+1442227902 source:/home/raven/coding/Cpp Projects/LearningC/alimento1.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1442225977 source:/home/raven/coding/Cpp Projects/LearningC/alimento2.c
+	<stdio.h>
+
+1442226512 source:/home/raven/coding/Cpp Projects/LearningC/alimento3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1442242646 source:/home/raven/coding/Cpp Projects/LearningC/ejercicio3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1442200119 source:/home/raven/coding/Cpp Projects/LearningC/qsort.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+

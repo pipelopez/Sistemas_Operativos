@@ -1,0 +1,12 @@
+Materia: Simulación de sistemas
+Nota: 4
+Créditos: 4
+Materia: Sistemas operativos
+Nota: 4.5
+Créditos: 5
+Materia: Calculo
+Nota: 3.5
+Créditos: 4
+Materia: Introducción a la ing
+Nota: 2
+Créditos: 2

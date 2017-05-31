@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1442842082 source:/home/raven/coding/Cpp Projects/Examen1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

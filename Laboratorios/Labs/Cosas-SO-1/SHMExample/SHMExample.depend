@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1442483145 source:/home/raven/coding/Cpp Projects/SHMExample/main.c
+	<sys/types.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<unistd.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+

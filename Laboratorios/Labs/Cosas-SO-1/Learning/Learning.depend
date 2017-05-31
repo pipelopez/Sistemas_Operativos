@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1441506144 source:/home/raven/coding/Cpp Projects/Learning/main.cpp
+	<algorithm>
+	<ctype.h>
+	<iostream>
+	<map>
+	<fstream>
+	<sstream>
+	<string>
+	<string.h>
+	<vector>
+

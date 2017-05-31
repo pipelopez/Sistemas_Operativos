@@ -1,0 +1,10 @@
+Materia                       Nota      Créditos 
+Simulación de sistemas        4.00       4         
+Sistemas operativos            4.50       5         
+Calculo                        3.50       4         
+Introducción a la ing         2.00       2         
+
+Total de materias: 4
+Materias ganadas: 3
+Materias perdidas: 1
+Promedio ponderado: 3.77

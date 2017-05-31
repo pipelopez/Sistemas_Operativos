@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1442459760 source:/home/raven/coding/Cpp Projects/SocketsExample/cliente.c
+	<stdio.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<netdb.h>
+
+1442458170 source:/home/raven/coding/Cpp Projects/SocketsExample/servidor.c
+	<stdio.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
